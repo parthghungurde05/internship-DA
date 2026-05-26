@@ -1,0 +1,11 @@
+Date,Product,Category,Region,Quantity,Sales,Revenue
+2025-01-01,Laptop,Electronics,West,5,50000,55000
+2025-01-02,Phone,Electronics,South,10,30000,35000
+2025-01-03,Tablet,Electronics,North,8,25000,28000
+2025-01-04,Laptop,Electronics,East,6,60000,65000
+2025-01-05,Phone,Electronics,West,12,36000,42000
+2025-01-06,Headphones,Accessories,South,20,10000,12000
+2025-01-07,Tablet,Electronics,North,7,22000,25000
+2025-01-08,Laptop,Electronics,East,4,40000,45000
+2025-01-09,Phone,Electronics,West,15,45000,50000
+2025-01-10,Headphones,Accessories,South,25,12000,15000
